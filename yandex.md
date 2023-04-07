@@ -1,4 +1,4 @@
-# На основе сайта [yandex.ru](yandex.ru).
+# На основе сайта [yandex.ru](www.yandex.ru).
 
 * _Сайт работает на протоколе_ **<u>https</u>**:
 ![https](https.png)
