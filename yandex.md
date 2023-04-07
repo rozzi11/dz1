@@ -5,8 +5,20 @@
 
 * *Струтура сайта*
 
-![https](structure.png)
+![structure](structure.png)
+____
 
+## Внесение изменении
+____
 
-* *Внесение изменении*
-1.  
+1.  *Погода*
+
+* _До:_ 
+
+![before](wetb.png)
+
+* _После:_ 
+
+![after](weatherafter.png)
+
+2. 
